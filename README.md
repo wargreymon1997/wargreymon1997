@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/wargreymon1997/wargreymon1997/blob/output/github-contribution-grid-snake.svg)
 # Olá, me chamo Fernando !
 ## Bem vindo ao meu perfil GitHub 👋
 
@@ -20,4 +19,9 @@
 - 📫 Como entrar em contato comigo: <p></p> <a href = "mailto:contato@augustofernando069@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 - ⚡ Curiosidade: Estou em processo para migrar para a carreira da Tecnologia e estou no quinto periodo da faculdade de ciência da computação
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wargreymon1997/wargreymon1997/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wargreymon1997/wargreymon1997/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wargreymon1997/wargreymon1997/output/github-contribution-grid-snake.svg">
+</picture>
 
